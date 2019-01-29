@@ -1,0 +1,6 @@
+com\ecommerce\rest\prefill\PrefillRestImpl.class
+com\ecommerce\Main\EcommereceMain.class
+com\ecommerce\rest\other\OtherOperationsRestImpl.class
+com\ecommerce\rest\other\IOtherOperatiosRest.class
+com\ecommerce\Main\JerseyConfig.class
+com\ecommerce\rest\prefill\IPrefillRest.class
